@@ -1,0 +1,7 @@
+a=[12,-7,5,64,-14] 
+b = [i for i in a if i>= 0] 
+print(b)
+
+a=[12,14,-95,3] 
+b = [i for i in a if i>= 0] 
+print(b)
